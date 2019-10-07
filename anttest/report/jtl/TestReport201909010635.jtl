@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="457" it="0" lt="456" ct="427" ts="1567334154922" s="true" lb="HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="2843" sby="117" ng="2" na="2">
+  <java.net.URL>https://www.baidu.com/</java.net.URL>
+</httpSample>
+<httpSample t="341" it="0" lt="341" ct="133" ts="1567334155348" s="true" lb="HTTP请求" rc="200" rm="OK" tn="线程组 1-2" dt="text" by="2843" sby="117" ng="1" na="1">
+  <java.net.URL>https://www.baidu.com/</java.net.URL>
+</httpSample>
+
+</testResults>
